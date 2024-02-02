@@ -1,5 +1,5 @@
+import java.util.ArrayList;
+
 public class PhonesStore {
-    public class PhoneStore{
-        private ArrayList<Phone> phones;
-    }
+    private ArrayList<Phone> phones;
 }
